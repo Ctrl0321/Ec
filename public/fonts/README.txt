@@ -1,0 +1,1 @@
+Add licensed Aeonik-Regular.woff2 and Aeonik-Bold.woff2 files here to activate the exact font family. Font files are not bundled. The UK reference source includes Aeonik declarations; the global website font has not been independently confirmed. The preview currently uses Arial fallback.
